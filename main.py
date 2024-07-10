@@ -1,7 +1,7 @@
 import PyPDF2
 
 
-pdfiles = ["1.pdf", "2.pdf", "3.pdf"]
+pdfiles = ["1.pdf", "2.pdf"]
 
 merger = PyPDF2.PdfMerger()
 
